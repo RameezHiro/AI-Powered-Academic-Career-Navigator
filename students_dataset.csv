@@ -1,0 +1,301 @@
+student_id,name,attendance,math_marks,programming_marks,communication_marks,assignment_score,career_interest
+1,Kabir_0,79,66,71,62,60,Business
+2,Aman_1,76,64,65,79,69,Data Science
+3,Aditya_2,75,68,80,80,62,Design
+4,Riya_3,88,84,89,97,85,Data Science
+5,Vikram_4,89,100,86,83,81,Cybersecurity
+6,Pooja_5,66,76,62,69,68,Finance
+7,Pooja_6,58,60,51,42,60,Business
+8,Karan_7,42,55,60,36,42,Cybersecurity
+9,Aditya_8,96,82,91,76,97,Marketing
+10,Tanvi_9,70,60,69,80,77,Finance
+11,Meera_10,77,66,78,75,71,Marketing
+12,Priya_11,64,59,55,55,59,Business
+13,Aisha_12,77,71,77,69,71,Software Development
+14,Meera_13,67,72,79,78,67,Design
+15,Kabir_14,89,80,96,82,98,AI
+16,Aditya_15,90,83,83,96,82,Design
+17,Meera_16,77,61,68,68,61,Marketing
+18,Aman_17,55,41,51,49,50,Design
+19,Meera_18,53,58,39,35,50,Design
+20,Meera_19,47,42,47,38,35,Marketing
+21,Aman_20,95,81,99,89,89,AI
+22,Rahul_21,40,54,47,46,45,Software Development
+23,Aditya_22,59,36,35,45,49,AI
+24,Rahul_23,59,49,49,54,43,Data Science
+25,Aisha_24,44,44,42,50,47,Business
+26,Tanvi_25,62,53,55,57,38,Marketing
+27,Aditya_26,42,47,40,47,43,Cybersecurity
+28,Rohit_27,75,69,67,72,61,Data Science
+29,Rahul_28,96,87,84,89,94,AI
+30,Riya_29,82,60,62,78,68,Finance
+31,Sahil_30,62,37,46,42,53,Software Development
+32,Aisha_31,41,51,37,51,60,AI
+33,Karan_32,81,71,78,71,72,Design
+34,Rahul_33,68,68,74,72,79,Marketing
+35,Sara_34,94,93,90,75,87,Design
+36,Meera_35,100,88,87,89,99,Cybersecurity
+37,Neha_36,68,69,72,72,69,Design
+38,Pooja_37,79,73,65,80,80,Marketing
+39,Pooja_38,79,76,74,77,76,Business
+40,Sara_39,47,60,55,37,42,Data Science
+41,Ananya_40,100,88,80,85,83,AI
+42,Karan_41,90,86,96,99,86,Design
+43,Vikram_42,46,57,54,47,44,Cybersecurity
+44,Karan_43,67,62,80,75,77,Business
+45,Aisha_44,70,66,79,73,71,AI
+46,Pooja_45,52,58,58,50,48,Cybersecurity
+47,Riya_46,40,59,45,45,54,Data Science
+48,Priya_47,53,43,51,60,53,Cybersecurity
+49,Rahul_48,71,64,76,76,75,Business
+50,Dev_49,73,65,68,76,64,Design
+51,Pooja_50,100,98,83,86,91,Design
+52,Ananya_51,63,40,49,51,49,Finance
+53,Arjun_52,71,64,74,76,65,AI
+54,Neha_53,76,60,69,72,68,Business
+55,Riya_54,68,62,66,74,60,AI
+56,Rahul_55,99,100,93,81,88,Data Science
+57,Dev_56,65,76,68,62,62,AI
+58,Dev_57,75,70,76,64,67,AI
+59,Rahul_58,99,85,81,87,80,Software Development
+60,Vikram_59,45,53,47,40,38,Cybersecurity
+61,Ananya_60,77,80,63,80,70,Design
+62,Ananya_61,69,62,77,80,78,Marketing
+63,Pooja_62,95,87,99,85,92,Cybersecurity
+64,Rohit_63,67,75,65,60,60,Data Science
+65,Ananya_64,65,79,76,79,62,Finance
+66,Neha_65,88,95,88,91,97,Software Development
+67,Aditya_66,81,75,61,60,72,Business
+68,Ananya_67,72,68,71,73,73,Software Development
+69,Kabir_68,43,38,53,57,53,AI
+70,Arjun_69,93,80,92,97,94,AI
+71,Aditya_70,85,80,96,85,84,Data Science
+72,Sara_71,98,86,81,94,100,Cybersecurity
+73,Meera_72,48,55,51,36,42,Business
+74,Priya_73,54,56,53,56,36,Design
+75,Arjun_74,86,96,88,88,88,Business
+76,Dev_75,100,80,100,87,89,AI
+77,Aditya_76,42,52,37,48,49,Design
+78,Sara_77,75,80,66,79,75,Finance
+79,Meera_78,87,93,98,93,88,AI
+80,Sahil_79,48,36,50,42,45,Software Development
+81,Ananya_80,99,98,93,99,92,Software Development
+82,Vikram_81,69,65,76,75,70,Marketing
+83,Karan_82,58,59,50,59,57,Finance
+84,Vikram_83,82,70,64,62,71,Marketing
+85,Ishita_84,95,82,96,76,92,AI
+86,Sara_85,75,70,73,71,79,Software Development
+87,Rahul_86,93,93,86,75,91,Marketing
+88,Vikram_87,80,62,78,74,73,AI
+89,Vikram_88,42,60,49,54,47,Data Science
+90,Aisha_89,67,69,60,61,74,Marketing
+91,Rohit_90,48,57,37,39,52,Software Development
+92,Aditya_91,61,41,51,57,43,Data Science
+93,Riya_92,82,67,66,66,69,Marketing
+94,Karan_93,75,66,76,64,61,AI
+95,Vikram_94,73,75,67,61,75,Cybersecurity
+96,Sara_95,84,68,65,60,75,Business
+97,Aisha_96,81,70,75,71,74,Data Science
+98,Dev_97,79,61,62,76,72,Marketing
+99,Rahul_98,71,78,67,75,61,Software Development
+100,Meera_99,48,37,38,54,50,AI
+101,Ananya_100,70,75,76,77,70,Business
+102,Sahil_101,61,37,51,50,51,Data Science
+103,Vikram_102,89,83,83,91,99,Cybersecurity
+104,Rahul_103,99,91,95,92,84,Software Development
+105,Kabir_104,85,73,71,74,76,Marketing
+106,Sahil_105,89,85,99,84,85,Cybersecurity
+107,Vikram_106,59,57,51,56,45,Finance
+108,Sara_107,88,97,87,93,83,Business
+109,Ishita_108,46,37,44,39,50,Finance
+110,Riya_109,81,65,64,69,69,Cybersecurity
+111,Priya_110,89,80,86,86,95,Cybersecurity
+112,Rohit_111,89,97,93,76,85,Design
+113,Arjun_112,78,77,74,69,74,Finance
+114,Meera_113,94,80,89,99,88,Finance
+115,Kabir_114,51,51,50,37,59,Design
+116,Pooja_115,92,90,99,80,85,Business
+117,Karan_116,61,59,51,52,49,Design
+118,Ishita_117,85,90,94,97,88,Design
+119,Vikram_118,86,87,91,100,83,Cybersecurity
+120,Riya_119,40,53,48,39,51,Cybersecurity
+121,Sara_120,57,57,57,43,37,Software Development
+122,Tanvi_121,85,77,67,65,61,Software Development
+123,Ishita_122,77,79,68,76,60,AI
+124,Priya_123,65,70,62,68,68,Finance
+125,Sara_124,65,61,80,79,73,Software Development
+126,Sara_125,65,53,60,35,43,Marketing
+127,Ishita_126,96,91,96,76,98,Software Development
+128,Aman_127,85,61,74,78,74,Data Science
+129,Rahul_128,85,99,92,76,84,Marketing
+130,Aditya_129,65,45,54,40,54,Marketing
+131,Kabir_130,83,64,71,79,68,Business
+132,Sara_131,52,59,44,51,57,Data Science
+133,Riya_132,73,63,70,77,68,Marketing
+134,Arjun_133,59,58,36,48,59,Data Science
+135,Rohit_134,77,79,69,61,74,AI
+136,Ananya_135,71,63,73,69,60,Business
+137,Pooja_136,89,83,85,86,96,Marketing
+138,Dev_137,41,40,54,60,53,Design
+139,Sahil_138,91,85,89,77,81,Design
+140,Riya_139,61,47,44,53,42,AI
+141,Rohit_140,57,37,51,60,48,Data Science
+142,Rohit_141,88,80,100,94,81,AI
+143,Dev_142,81,69,73,61,78,Marketing
+144,Dev_143,80,73,68,65,73,Data Science
+145,Ishita_144,84,68,63,67,69,Finance
+146,Dev_145,98,92,93,75,91,Software Development
+147,Pooja_146,100,94,88,78,96,Software Development
+148,Priya_147,94,99,100,88,84,Finance
+149,Karan_148,72,67,68,78,64,Software Development
+150,Neha_149,51,44,46,51,57,AI
+151,Pooja_150,41,45,37,50,50,Software Development
+152,Vikram_151,72,70,77,76,64,Cybersecurity
+153,Tanvi_152,46,52,56,56,43,AI
+154,Aisha_153,58,55,36,56,42,Software Development
+155,Neha_154,84,64,74,69,60,Design
+156,Aditya_155,89,85,98,77,100,Finance
+157,Tanvi_156,92,97,100,93,83,Marketing
+158,Ishita_157,67,72,73,78,69,Design
+159,Sara_158,93,81,90,93,89,Finance
+160,Priya_159,48,40,57,49,37,Design
+161,Dev_160,98,90,84,81,94,Software Development
+162,Sara_161,93,96,85,88,84,Finance
+163,Aman_162,92,96,88,90,89,Design
+164,Aman_163,98,94,92,89,83,Marketing
+165,Neha_164,73,68,68,61,72,Design
+166,Riya_165,79,74,66,67,77,Business
+167,Tanvi_166,86,85,91,100,97,Finance
+168,Meera_167,46,56,49,44,42,Cybersecurity
+169,Tanvi_168,95,91,86,84,87,Data Science
+170,Dev_169,82,75,69,63,65,Finance
+171,Rohit_170,64,50,50,52,53,Data Science
+172,Meera_171,98,84,81,93,90,Finance
+173,Karan_172,87,96,90,97,91,AI
+174,Sara_173,65,74,68,74,60,Software Development
+175,Arjun_174,65,75,71,71,61,Data Science
+176,Karan_175,95,86,100,86,83,Software Development
+177,Rohit_176,62,44,50,58,37,Cybersecurity
+178,Ananya_177,98,94,93,100,96,Design
+179,Priya_178,77,79,66,67,78,AI
+180,Dev_179,68,60,66,80,74,Software Development
+181,Karan_180,82,72,76,75,67,Software Development
+182,Arjun_181,48,50,58,44,45,Business
+183,Ananya_182,89,84,94,97,98,Data Science
+184,Aman_183,66,70,73,64,65,Software Development
+185,Kabir_184,67,69,66,77,63,AI
+186,Riya_185,85,80,100,80,92,AI
+187,Sara_186,49,46,54,37,47,Cybersecurity
+188,Priya_187,71,73,80,68,73,Software Development
+189,Meera_188,98,92,88,90,88,AI
+190,Vikram_189,74,74,68,72,61,Marketing
+191,Aditya_190,61,36,55,46,42,Marketing
+192,Aditya_191,67,72,76,80,74,Data Science
+193,Sahil_192,86,93,85,78,90,Design
+194,Rahul_193,55,52,42,50,48,Data Science
+195,Arjun_194,70,73,78,77,66,AI
+196,Dev_195,83,76,65,65,71,Design
+197,Aman_196,46,47,57,53,46,Cybersecurity
+198,Karan_197,60,54,44,47,56,Marketing
+199,Riya_198,42,54,39,50,50,Marketing
+200,Rahul_199,61,44,57,49,50,Marketing
+201,Aisha_200,82,78,71,63,71,Marketing
+202,Ishita_201,55,51,47,59,47,Data Science
+203,Dev_202,52,56,56,49,42,Cybersecurity
+204,Priya_203,50,37,47,38,56,Software Development
+205,Aditya_204,87,94,89,81,97,Cybersecurity
+206,Pooja_205,80,69,60,62,61,Business
+207,Ishita_206,42,56,36,48,59,Marketing
+208,Aditya_207,100,95,84,80,96,AI
+209,Rohit_208,68,64,63,64,67,Business
+210,Vikram_209,53,38,35,60,35,Marketing
+211,Meera_210,99,83,92,93,99,Marketing
+212,Aisha_211,49,38,39,46,57,Marketing
+213,Dev_212,79,79,67,64,62,Data Science
+214,Arjun_213,71,69,75,80,60,Software Development
+215,Vikram_214,96,96,80,92,87,Marketing
+216,Riya_215,94,93,85,77,98,Cybersecurity
+217,Arjun_216,87,94,85,86,94,Finance
+218,Meera_217,94,88,81,82,97,Software Development
+219,Sara_218,97,84,80,77,89,Marketing
+220,Riya_219,97,89,92,89,86,Marketing
+221,Neha_220,45,53,39,35,60,Design
+222,Aditya_221,45,48,50,59,50,AI
+223,Kabir_222,85,67,64,61,71,Design
+224,Ishita_223,87,95,81,80,97,Design
+225,Priya_224,88,85,97,80,88,Design
+226,Neha_225,87,99,83,81,82,Finance
+227,Rahul_226,85,91,89,92,81,Cybersecurity
+228,Ananya_227,85,91,85,79,94,Finance
+229,Aisha_228,100,85,95,93,93,Cybersecurity
+230,Neha_229,97,83,98,88,82,Business
+231,Priya_230,71,64,76,65,76,Data Science
+232,Arjun_231,77,66,72,64,64,Business
+233,Pooja_232,72,62,78,61,65,Finance
+234,Rohit_233,58,56,55,60,36,Data Science
+235,Aditya_234,97,98,85,81,95,Software Development
+236,Priya_235,49,60,53,38,53,Software Development
+237,Aisha_236,48,44,45,51,60,Finance
+238,Ananya_237,44,48,38,39,52,AI
+239,Ananya_238,100,90,94,99,99,AI
+240,Riya_239,78,60,65,77,75,Marketing
+241,Karan_240,100,89,94,76,91,Finance
+242,Neha_241,82,66,63,75,72,AI
+243,Rohit_242,93,98,94,88,96,Finance
+244,Aisha_243,60,36,45,59,40,Marketing
+245,Sahil_244,51,55,36,56,54,AI
+246,Dev_245,51,40,60,56,53,Cybersecurity
+247,Aisha_246,59,36,39,59,52,Software Development
+248,Aisha_247,42,40,56,57,40,Business
+249,Pooja_248,100,90,86,75,99,AI
+250,Kabir_249,94,88,99,82,93,AI
+251,Aisha_250,80,61,63,67,66,Data Science
+252,Aisha_251,56,55,40,37,56,Cybersecurity
+253,Meera_252,63,42,36,57,39,Data Science
+254,Neha_253,85,71,75,63,64,Finance
+255,Dev_254,93,98,100,89,100,Marketing
+256,Sara_255,55,42,54,37,60,Data Science
+257,Aditya_256,60,56,57,51,41,Marketing
+258,Neha_257,90,88,87,95,94,Software Development
+259,Karan_258,66,71,76,80,79,Marketing
+260,Kabir_259,63,51,54,48,50,Design
+261,Pooja_260,100,82,86,94,80,Data Science
+262,Arjun_261,67,72,75,76,65,Business
+263,Pooja_262,45,57,48,36,47,Data Science
+264,Vikram_263,65,56,43,51,48,Finance
+265,Arjun_264,56,36,59,51,36,AI
+266,Arjun_265,83,77,71,64,60,Data Science
+267,Aman_266,82,67,61,77,66,Finance
+268,Tanvi_267,48,60,46,50,47,Cybersecurity
+269,Meera_268,49,55,55,47,57,Design
+270,Vikram_269,84,66,77,64,72,AI
+271,Aman_270,69,80,66,69,67,AI
+272,Dev_271,87,92,81,78,88,Marketing
+273,Aditya_272,78,76,72,60,80,Software Development
+274,Pooja_273,46,44,37,59,39,AI
+275,Riya_274,84,79,73,68,78,Software Development
+276,Priya_275,96,95,95,88,94,Software Development
+277,Sahil_276,95,84,96,83,98,Business
+278,Priya_277,100,98,80,95,83,Design
+279,Priya_278,42,47,38,57,38,Software Development
+280,Pooja_279,100,87,84,82,98,Data Science
+281,Pooja_280,85,87,87,85,82,Software Development
+282,Riya_281,98,95,93,93,89,Data Science
+283,Riya_282,91,95,82,94,88,Business
+284,Meera_283,88,84,98,96,90,Business
+285,Riya_284,87,84,87,77,88,Finance
+286,Kabir_285,99,85,94,98,98,Cybersecurity
+287,Rohit_286,54,41,52,42,46,Finance
+288,Meera_287,79,69,68,63,61,Design
+289,Dev_288,62,57,55,51,36,AI
+290,Riya_289,59,36,55,57,55,Design
+291,Aman_290,71,73,63,61,75,Design
+292,Ishita_291,67,66,74,70,61,Business
+293,Rohit_292,53,57,57,52,43,Software Development
+294,Ananya_293,52,44,58,56,35,Design
+295,Kabir_294,56,46,48,56,56,Software Development
+296,Aditya_295,42,46,37,42,50,Design
+297,Karan_296,77,63,70,62,73,Business
+298,Arjun_297,85,72,72,77,71,Cybersecurity
+299,Pooja_298,63,52,36,60,51,Business
+300,Aditya_299,79,68,72,64,69,Finance
